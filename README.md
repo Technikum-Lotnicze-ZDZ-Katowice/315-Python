@@ -19,6 +19,8 @@ Uwaga: Przyjmij, że użytkownik wprowadza liczby całkowite, wg wzoru ![bmi](bm
 
 9. Napisz program sprawdzający czy podana liczba jest liczbą pierwszą.
 
-10. Liczba 362 881 ma tę własność, że przy dzieleniu przez 2, 3, 4, 5, 6, 7, 8, 9 daje resztę 1. Znajdź najmniejszą liczbę o tej własności.
+10. Napisz program obliczający silnię liczby podanej przez użytkownika.
 
-11. Napisz program obliczający średnią z dowolnej ilości liczb podanych przez użytkownika (zakończ pobieranie liczb po wpisaniu 0)
+11. Liczba 362 881 ma tę własność, że przy dzieleniu przez 2, 3, 4, 5, 6, 7, 8, 9 daje resztę 1. Znajdź najmniejszą liczbę o tej własności.
+
+12. Napisz program obliczający średnią z dowolnej ilości liczb podanych przez użytkownika (zakończ pobieranie liczb po wpisaniu 0)
