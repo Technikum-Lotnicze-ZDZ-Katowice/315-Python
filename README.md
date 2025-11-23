@@ -15,7 +15,7 @@ Uwaga: Przyjmij, że użytkownik wprowadza liczby całkowite, wg wzoru ![bmi](bm
 
 6. Napisz program, który dla liczb a, b, c i d obliczy i wyświetli sumę wartości bezwzględnych różnic |a-b|+|b-a|+|c-d| Program powinien się posługiwać wyłącznie instrukcjami if oraz dodawaniem i odejmowaniem.
 
-7. Napisz program wyznaczający wszystkie dzielniki liczby 80.
+7. Napisz program wyznaczający wszystkie dzielniki liczby podanej przez użytkownika.
 
 9. Napisz program sprawdzający czy podana liczba jest liczbą pierwszą.
 
