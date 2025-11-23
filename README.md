@@ -8,4 +8,4 @@
 
 3. Przygotuj program przeliczający PLN na Euro i Euro na PLN przy kursie 4.22. (zapytaj o walutę i o kwotę)
 
-4. 
+4. Napisz program obliczający wskaźnik BMI wg wzoru: ![bmi](bmi.png)
