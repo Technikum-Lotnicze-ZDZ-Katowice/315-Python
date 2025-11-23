@@ -17,7 +17,7 @@ Uwaga: Przyjmij, że użytkownik wprowadza liczby całkowite, wg wzoru ![bmi](bm
 
 7. Napisz program wyznaczający wszystkie dzielniki liczby 80.
 
-9. Napisz program sprawdzająca czy podana liczba jest liczbą pierwszą.
+9. Napisz program sprawdzający czy podana liczba jest liczbą pierwszą.
 
 10. Liczba 362 881 ma tę własność, że przy dzieleniu przez 2, 3, 4, 5, 6, 7, 8, 9 daje resztę 1. Znajdź najmniejszą liczbę o tej własności.
 
